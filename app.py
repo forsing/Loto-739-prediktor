@@ -1,10 +1,10 @@
 # Inspiration - Inspiracija
-# https://github.com/bicycle-orooro/my-lotto-ai/tree/main
+## https://github.com/bicycle-orooro/my-lotto-ai/tree/main
 
 
 
 """
-cd /Users/4c/Desktop/GHQ/kurzor/my-lotto-ai-main
+cd /
 streamlit run app.py
 """
 
@@ -25,7 +25,7 @@ except ModuleNotFoundError:
 import numpy as np
 from PIL import Image
 
-CSV_FILE = "/Users/4c/Desktop/GHQ/data/loto7hh_4596_k29_up.csv"
+CSV_FILE = "/data/loto7hh_4596_k29_up.csv"
 SEED = 39
 random.seed(SEED)
 np.random.seed(SEED)
@@ -483,7 +483,7 @@ else:
 """
 🤖 AI loto predlog (kolo 4597)
 
-NEXT: 8, 9, 10, 14, 16, 23, 26
+NEXT: 8, 9, x, y, z, 23, 26
 
 generisanje AI brojeva
 """
