@@ -1,3 +1,8 @@
+Inspiracija/Nadogradnja - Inspiration/Upgrade
+
+
+
+
 | Paket                       | Verzija |
 | --------------------------- | ------- |
 | **python**                  | 3.11.13 |
