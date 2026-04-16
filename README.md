@@ -1,7 +1,7 @@
 Inspiracija/Nadogradnja - Inspiration/Upgrade
 https://github.com/bicycle-orooro/my-lotto-ai/tree/main
 
-
+streamlit run app.py
 
 
 | Paket                       | Verzija |
